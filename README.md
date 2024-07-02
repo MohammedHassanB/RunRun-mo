@@ -1,2 +1,2 @@
 #Workout tracker project
-# application url:
+# application url:https://runrun-mo.netlify.app/
